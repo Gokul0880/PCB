@@ -1,0 +1,32 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_3034_1x20mm'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'MK1:Audio_Module:Reverb_BTDR-1H'.
+Info: Processing symbol 'R1:OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_Power_L20.0mm_W6.4mm_P25.40mm'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_E-Switch_FS5700DP_DPDT'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Added R1 (footprint 'OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical').
+Changed REF** reference designator to R1.
+Changed R1 value from R_LDR_10x8.5mm_P7.6mm_Vertical to LDR.
+Updated R1 symbol association from  to /4af51a76-e68e-44da-9cfe-afe150c929f4.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'ash 1.kicad_sch'.
+Updated R1 footprint filters to 'R*LDR*10x8.5mm*P7.6mm*'.
+Connected R1 pin 2 to GND.
+Connected R1 pin 1 to Net-(R1-Pad1).
+Changed R2 footprint from 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical' to 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Updated R2 fields.
+Warning: No net found for component MK1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component MK1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component MK1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component MK1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component MK1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component SW1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component SW1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component SW1 pad 6 (no pin 6 in symbol).
+
+
+Info: Total warnings: 8, errors: 0.

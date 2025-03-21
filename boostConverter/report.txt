@@ -1,0 +1,139 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P20.00mm_Horizontal'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal'.
+Info: Processing symbol 'L1:Inductor_THT:L_Axial_L26.0mm_D9.0mm_P30.48mm_Horizontal_Fastron_77A'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'VR1:XL6009:DPAK170P1435X465-6N'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(J1-Pin_1).
+Connected C1 pin 1 to Net-(J1-Pin_1).
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm').
+Changed REF** reference designator to C2.
+Changed C2 value from C_Radial_D5.0mm_H11.0mm_P2.00mm to 1uF.
+Updated C2 symbol association from  to /a24921f9-ec77-444d-b5cb-c74fdfd87c30.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'boost.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 1 to GND.
+Connected C2 pin 2 to Net-(J1-Pin_1).
+Added C3 (footprint 'Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm').
+Changed REF** reference designator to C3.
+Changed C3 value from C_Radial_D5.0mm_H11.0mm_P2.00mm to 1uF.
+Updated C3 symbol association from  to /274f2045-c3d5-4548-9f54-761d5ae2998d.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'boost.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to GND.
+Add net Net-(D1-K).
+Connected C3 pin 1 to Net-(D1-K).
+Added C4 (footprint 'Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P20.00mm_Horizontal').
+Changed REF** reference designator to C4.
+Changed C4 value from C_Axial_L12.0mm_D8.5mm_P20.00mm_Horizontal to 220uF/50V.
+Updated C4 symbol association from  to /1880fe01-d01b-45fe-8d44-68e73e92687b.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'boost.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to Net-(D1-K).
+Connected C4 pin 2 to GND.
+Added D1 (footprint 'Diode_SMD:D_SMA').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SMA to SS34.
+Updated D1 symbol association from  to /77935ab9-58f1-4941-bf6b-3ae4088c36dc.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'boost.kicad_sch'.
+Updated D1 footprint filters to 'D*SMA*'.
+Connected D1 pin 1 to Net-(D1-K).
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x01_P2.54mm_Horizontal to Conn_01x01_Pin.
+Updated J1 symbol association from  to /5d3cbc2a-3d0f-4f94-93af-974f978309d2.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'boost.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to Net-(J1-Pin_1).
+Added C1 (footprint 'Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm').
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x01_P2.54mm_Horizontal to Conn_01x01_Pin.
+Updated J2 symbol association from  to /cb55df9d-07c8-48fb-b9b5-3900c813c67a.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'boost.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to GND.
+Changed REF** reference designator to C1.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x01_P2.54mm_Horizontal to Conn_01x01_Pin.
+Updated J3 symbol association from  to /7d7e5960-0fa4-40f5-bf60-e541dbb8927f.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'boost.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 1 to GND.
+Changed C1 value from C_Radial_D6.3mm_H11.0mm_P2.50mm to 47uF/50V.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_1x01_P2.54mm_Horizontal to Conn_01x01_Pin.
+Updated J4 symbol association from  to /1e49f9c0-13d7-4a8d-b397-694a81645cfd.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'boost.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Connected J4 pin 1 to Net-(D1-K).
+Updated C1 symbol association from  to /038867e2-c5b7-4c76-94ea-78868fa2aba5.
+Added L1 (footprint 'Inductor_THT:L_Axial_L26.0mm_D9.0mm_P30.48mm_Horizontal_Fastron_77A').
+Changed REF** reference designator to L1.
+Changed L1 value from L_Axial_L26.0mm_D9.0mm_P30.48mm_Horizontal_Fastron_77A to 33uH.
+Updated L1 symbol association from  to /1215d840-22c9-4ebd-8c22-fe0dde04ec47.
+Updated L1 fields.
+Updated L1 sheetname to '/'.
+Updated L1 sheetfile to 'boost.kicad_sch'.
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L1 pin 1 to Net-(J1-Pin_1).
+Connected L1 pin 2 to Net-(D1-A).
+Updated C1 fields.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 1K.
+Updated R1 symbol association from  to /19e74a0b-09ca-416d-85c6-d6707793791b.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'boost.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net Net-(VR1-FB).
+Connected R1 pin 1 to Net-(VR1-FB).
+Connected R1 pin 2 to GND.
+Updated C1 sheetname to '/'.
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3296W_Vertical to 50K.
+Updated RV1 symbol association from  to /31d9152f-0015-4a38-a869-bb30d936f235.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to 'boost.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Connected RV1 pin 2 to Net-(D1-K).
+Connected RV1 pin 3 to Net-(D1-K).
+Connected RV1 pin 1 to Net-(VR1-FB).
+Updated C1 sheetfile to 'boost.kicad_sch'.
+Error: Cannot add VR1 (footprint 'XL6009:DPAK170P1435X465-6N' not found).
+
+
+Info: Total warnings: 0, errors: 1.
